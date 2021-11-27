@@ -14,11 +14,11 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://github.com/github/explore/blob/c25c800870be8d539ce16babea0f1882a65730b3/topics/python/python.png" />]()
-
+[<img align="left" alt="Python" width="26px" src="https://github.com/github/explore/blob/c25c800870be8d539ce16babea0f1882a65730b3/topics/python/python.png" />][]
+[<img align="left" alt="Postgresql" width="26px" src="https://github.com/github/explore/blob/c25c800870be8d539ce16babea0f1882a65730b3/topics/postgresql/postgresql.png" />][]
 
 <br />
-[<img align="left" alt="Postgresql" width="26px" src="https://github.com/github/explore/blob/c25c800870be8d539ce16babea0f1882a65730b3/topics/postgresql/postgresql.png" />]()
+
 [<img align="left" alt="R" width="26px" src="https://github.com/github/explore/blob/c25c800870be8d539ce16babea0f1882a65730b3/topics/r/r.png" />]()
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
