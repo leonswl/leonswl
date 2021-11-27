@@ -28,7 +28,8 @@
 
 <br />
 
-<img align="left" alt="leonswl's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=leonswl&show_icons=true&theme=radical" />
+[![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonswl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
