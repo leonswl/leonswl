@@ -1,7 +1,6 @@
 ### Hi there, my name is Leon! 👋 
 
-
-[![Website](https://img.shields.io/website?style=for-the-badge&up_color=blue&up_message=leonswl&url=https%3A%2F%2Fleonswl.github.io%2F)](https://leonswl.github.io/)
+[![Website](https://img.shields.io/website?style=for-the-badge&up_color=blue&up_message=leonswl&url=https%3A%2F%2Fleonswl.github.io%2F)][website]
 
 ## I’m a data analyst and extremely enthusiastic about the latest tech trends! 
 
@@ -10,9 +9,8 @@
 - 🥅 2022 Goals: Contribute to open source projects
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://leonswl.github.io/]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/leonsunwailoong/]
-
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 ### Languages and Tools:
@@ -30,7 +28,8 @@
 
 <br />
 
-
+[website]: https://leonswl.github.io/
+[linkedin]: https://www.linkedin.com/in/leonsunwailoong/
 
 
 
