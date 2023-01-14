@@ -2,15 +2,16 @@
 
 [![Website](https://img.shields.io/website?style=for-the-badge&up_color=blue&up_message=leonswl&url=https%3A%2F%2Fleonswl.github.io%2F)][website]
 
-## I’m a data analyst and extremely enthusiastic about the latest tech trends! 
+## I’m a data scientist/analyst and extremely enthusiastic about the latest tech trends! 
 
 - 👀 Always on the lookout to collaborate more with like-minded folks 
-- 🌱 I'm learning about analytical tools/language, tech frameworks and blockchain.
-- 🥅 2022 Goals: Contribute to open source projects
+- 🌱 Interested in a wide spectrum of data concepts from causal inference, AI/ML to data and machine learning engineering and operations. 
+- 🥅 2023 Goals: Gain a deeper understanding in Causal Inference and engage in more practical application of data/ML engieering and ops. 
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Medium/medium-logos/master/03_Symbol/01_Black/SVG/Artboard%201.svg" />][medium]
 
 <br />
 
@@ -34,10 +35,9 @@
 [![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonswl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
 [website]: https://leonswl.github.io/
 [linkedin]: https://www.linkedin.com/in/leonsunwailoong/
+[medium]: https://medium.com/@layonsan
 
 
 
