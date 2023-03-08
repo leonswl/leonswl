@@ -34,8 +34,8 @@
 <br />
 <br />
 <br />
-
-[![Leon's GitHub stats](https://github-readme-stats.leonswl.vercel.app/api?username=leonswl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
+[![Leon's GitHub stats](https://github-readme-stats.leonswl.vercel.app/api?username=leonswl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 [website]: https://leonswl.github.io/
