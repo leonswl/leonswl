@@ -27,12 +27,12 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> <!-- git -->
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> <!-- github -->
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> <!-- terminal -->
+<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> <!-- javascript -->
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <!-- html -->
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <!-- css -->
 <img align="left" alt="azure" width="26px" src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/azure-offical.svg" /> <!-- azure -->
 <img align="left" alt="aws" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" /> <!-- aws -->
 <img align="left" alt="dbt" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dbt.svg" /> <!-- dbt -->
-
 
 <br />
 <br />
