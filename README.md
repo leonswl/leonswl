@@ -2,11 +2,10 @@
 
 [![Website](https://img.shields.io/website?style=for-the-badge&up_color=blue&up_message=leonswl&url=https%3A%2F%2Fleonswl.github.io%2F)][website]
 
-## I’m a data scientist/analyst and extremely enthusiastic about the latest tech trends! 
+## I’m a data scientist and extremely enthusiastic about the latest tech trends! 
 
 - 👀 Always on the lookout to collaborate more with like-minded folks 
 - 🌱 Interested in a wide spectrum of data concepts from causal inference, AI/ML to data and machine learning engineering and operations. 
-- 🥅 2023 Goals: Gain a deeper understanding in Causal Inference and engage in more practical application of data/ML engieering and ops. 
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
